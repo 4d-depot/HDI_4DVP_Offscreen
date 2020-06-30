@@ -1,0 +1,44 @@
+﻿{
+	"Class": {
+		"classes": [
+			"Collection",
+			"DisplayDocuments",
+			"ExportDocument",
+			"Offscreen"
+		]
+	},
+	"Default Folder": {
+		"groups": [
+			"Default Forms",
+			"Default Project Methods",
+			"Default Tables"
+		]
+	},
+	"Default Forms": {},
+	"Default Project Methods": {
+		"methods": [
+			"00_Start",
+			"Compiler_Arrays",
+			"Compiler_Methods",
+			"Compiler_Variables",
+			"Init",
+			"InitInfo",
+			"m_Quit"
+		]
+	},
+	"Default Tables": {
+		"tables": [
+			"Documents",
+			"INFO"
+		]
+	},
+	"View": {
+		"forms": [
+			"[INFO]Input",
+			"[INFO]Output",
+			"HDI",
+			"HDI2"
+		]
+	},
+	"trash": {}
+}
